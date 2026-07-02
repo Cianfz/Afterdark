@@ -1,0 +1,6 @@
+{
+  "name": "Local Games Hub",
+  "description": "A real-time multiplayer party game hub. Includes the game STOP (Adedanha) where a Host screen displays the game and players use their smartphones as controllers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
